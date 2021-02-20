@@ -1,0 +1,44 @@
+@media only  screen and (min-width:480px) and (max-width:767px){
+    .logo h1{
+        margin-left: -35px;
+    }
+    .login-button a{
+        font-size: 10px;
+        margin-left: -35px;
+    }
+    .contant h2 {
+        font-size: 33px;
+        font-family: arial;
+    }
+    .contant h5 {
+        font-family: arial;
+        font-size: 18px;
+        font-weight: 180;
+        color: gray;
+        margin-bottom: 15px;
+    }
+    input{
+        font-size:14px ;
+    }
+    label{
+        font-size: 20px;
+    }
+    .gen{
+        font-size: 18px;
+    }
+    .button{
+        width: 160px;
+        font-size: 20px;
+        padding: 5px 0px;
+    }
+    .firstmenu ul {
+        padding: 0px 10px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+
+    .logo h1{
+        margin-left: 40PX;
+    }
+
+}
